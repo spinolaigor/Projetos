@@ -1,0 +1,12 @@
+FAQ
+P:*Como posso adicionar mais funcionalidades?
+
+R: Você pode adicionar mais funcionalidades modificando ou adicionando métodos na classe RenafinderTurbo. Certifique-se de atualizar a interface do usuário para refletir as novas funcionalidades.
+
+P: O que fazer se encontrar um erro ao carregar um arquivo?
+
+R: Verifique se o arquivo está no formato correto e se não está corrompido. A aplicação suporta arquivos .xlsx, .csv, e .xml.
+
+P: Como posso personalizar os gráficos?
+
+R: Você pode personalizar os gráficos modificando os métodos na função visualizar_grafico. A biblioteca matplotlib oferece muitas opções de personalização para gráficos.
